@@ -1,0 +1,74 @@
+[
+  {
+    "serviceId": 1,
+    "serviceName": "Thermal Jacket Fitting for Cats",
+    "providerName": "WarmWhiskers Studio",
+    "providerEmail": "contact@warmwhiskers.com",
+    "price": 22,
+    "rating": 4.8,
+    "slotsAvailable": 5,
+    "description": "Custom thermal jackets designed to keep indoor and outdoor cats warm during cold months.",
+    "image": "https://i.ibb.co.com/cSWWzyPQ/Thermal-Jacket-Fitting-for-Cats.jpg",
+    "category": "Clothing"
+  },
+  {
+    "serviceId": 2,
+    "serviceName": "Paw Protection Wax & Grooming",
+    "providerName": "SnowPaws Grooming",
+    "providerEmail": "support@snowpaws.com",
+    "price": 28,
+    "rating": 4.9,
+    "slotsAvailable": 3,
+    "description": "Moisturizing paw treatment to protect from snow, salt, and cracked pads with winter grooming.",
+    "image": "https://i.ibb.co.com/53xfXqp/Paw-Protection-Wax-Grooming.jpg",
+    "category": "Grooming"
+  },
+  {
+    "serviceId": 3,
+    "serviceName": "Heated Pet Bed Rental",
+    "providerName": "CozyNest Care",
+    "providerEmail": "hello@cozynest.com",
+    "price": 35,
+    "rating": 4.7,
+    "slotsAvailable": 6,
+    "description": "Safe heated beds available for short-term rental to keep elderly pets warm and comfortable.",
+    "image": "https://i.ibb.co.com/xSfRCCwZ/Heated-Pet-Bed-Rental.jpg",
+    "category": "Comfort"
+  },
+  {
+    "serviceId": 4,
+    "serviceName": "Winter Nutrition & Supplement Plan",
+    "providerName": "HealthyTail Clinic",
+    "providerEmail": "care@healthytail.com",
+    "price": 40,
+    "rating": 4.9,
+    "slotsAvailable": 2,
+    "description": "Personalized diet and supplement recommendations to boost immunity and energy in winter.",
+    "image": "https://i.ibb.co.com/W46nrbGY/Winter-Nutrition-Supplement-Plan.jpg",
+    "category": "Nutrition"
+  },
+  {
+    "serviceId": 5,
+    "serviceName": "Indoor Winter Play & Exercise Session",
+    "providerName": "HappyPaws Activity Center",
+    "providerEmail": "booking@happypaws.com",
+    "price": 18,
+    "rating": 4.6,
+    "slotsAvailable": 8,
+    "description": "Safe indoor exercise and playtime to prevent obesity and boredom during freezing weather.",
+    "image": "https://i.ibb.co.com/BHng2LyK/Indoor-Winter-Play-Exercise-Session.jpg",
+    "category": "Activity"
+  },
+  {
+    "serviceId": 6,
+    "serviceName": "Winter Health Checkup & Flu Vaccination",
+    "providerName": "SnowShield Vet Care",
+    "providerEmail": "info@snowshieldvet.com",
+    "price": 55,
+    "rating": 5.0,
+    "slotsAvailable": 4,
+    "description": "Comprehensive winter screening including respiratory check and optional flu vaccination.",
+    "image": "https://i.ibb.co.com/bj3FD005/Winter-Health-Checkup-Flu-Vaccination.webp",
+    "category": "Health"
+  }
+]
