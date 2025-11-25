@@ -1,27 +1,20 @@
 import React, { useEffect, useState } from 'react';
 
-const POpularSEction = () => {
+const Services = () => {
 
     const[services, setServices]= useState([]);
-
-    useEffect(() => {
-        fetch('jasondata.json')
-        .then(res => res.json())
-        .then(data => setServices(data))
-        .catch(err => console.log(err))
-    }, [] )
-
-    console.log(services);
-       
+    
+        useEffect(() => {
+            fetch('jasondata.json')
+            .then(res => res.json())
+            .then(data => setServices(data))
+            .catch(err => console.log(err))
+        }, [] )
     return (
-        <div className='mt-8 px-[145px]'>
-            <div>
-                <h3 className='font-bold text-3xl text-center'>Popular Winter Care Services</h3>
-            </div>
-
-          <div className='grid grid-cols-3 mt-12 gap-10'>
+        <div className="px-[145px] ">
+            <div className='grid grid-cols-3 mt-12 gap-10'>
              {
-            services.slice(0,3).map(service => 
+            services.map(service => 
                 <div className="card bg-base-100 w-96 shadow-sm">
   <figure>
     <img className='w-full h-[300px] object-cover ' src={service?.image} alt="" />
@@ -40,10 +33,8 @@ const POpularSEction = () => {
             )
            }
           </div>
-
-
         </div>
     );
 };
 
-export default POpularSEction;
+export default Services;
