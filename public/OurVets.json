@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Olivia Benson",
+    "specialization": "Small Animal Care Specialist",
+    "experience": "8 Years Experience",
+    "email": "olivia@pethealthcare.com",
+    "image": "https://i.ibb.co.com/d4k4DJG9/Small-Animal-Care-Specialist.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Ethan Cooper",
+    "specialization": "Veterinary Surgeon",
+    "experience": "10 Years Experience",
+    "email": "ethan@pethealthcare.com",
+    "image": "https://i.ibb.co.com/8Dftm79R/Veterinary-Surgeon.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Sophia Rivera",
+    "specialization": "Exotic Pets & Birds Specialist",
+    "experience": "6 Years Experience",
+    "email": "sophia@pethealthcare.com",
+    "image": "https://i.ibb.co.com/WNMzwMx8/sophia.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Dr. Liam Carter",
+    "specialization": "Nutrition & Wellness Expert",
+    "experience": "9 Years Experience",
+    "email": "liam@pethealthcare.com",
+    "image": "https://i.ibb.co.com/67XcTxwb/liam.jpg"
+  }
+]
