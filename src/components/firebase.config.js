@@ -5,12 +5,13 @@ import { getAuth } from "firebase/auth";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAymtLrQhgXbiCyinbgi81RwrnsTaKXVWg",
-  authDomain: "simple-firebase-auth-7175f.firebaseapp.com",
-  projectId: "simple-firebase-auth-7175f",
-  storageBucket: "simple-firebase-auth-7175f.appspot.com", // <-- FIXED
-  messagingSenderId: "731465403955",
-  appId: "1:731465403955:web:6e8f1ac729ff952856dd46"
+ apiKey: "AIzaSyBrasdoVpRhXwD7gg8HfX3DYRfVATwvPOY",
+  authDomain: "petcenter-56db9.firebaseapp.com",
+  projectId: "petcenter-56db9",
+  storageBucket: "petcenter-56db9.firebasestorage.app",
+  messagingSenderId: "847246427926",
+  appId: "1:847246427926:web:e7f037b0f1e571f45ef237",
+
 };
 
 // Initialize Firebase
